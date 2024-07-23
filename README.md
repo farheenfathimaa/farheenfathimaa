@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-<table align="left">
+<table align="left" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <h4 align="left">Programming Languages</h4>
