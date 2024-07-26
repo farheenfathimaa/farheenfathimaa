@@ -3,14 +3,14 @@
 🌱 I’m currently learning TensorFlow & Deep Learning 
 📫 How to reach me farheennfathima@gmail.com 
 
-<h3 align="center">Connect with me:</h3> 
-<p align="center"> 
+<h3 align="left">Connect with me:</h3> 
+<p align="left"> 
   <a href="https://linkedin.com/in/www.linkedin.com/in/farheenfathimaa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/farheenfathimaa" height="30" width="40" />
   </a> 
 </p> 
 
-<h3 align="center">Languages & Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 
 <table>
   <tr>
@@ -89,6 +89,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farheenfathimaa&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=farheenfathimaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
