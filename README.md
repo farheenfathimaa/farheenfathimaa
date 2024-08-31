@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farheen Fathima</h1> 
 <h3 align="center">A CS Undergraduate Learning & Implementing ML</h3> 
-🌱 I’m currently learning TensorFlow & Deep Learning 
+🌱 I’m currently learning **Deep Learning** 
 
 📫 How to reach me farheennfathima@gmail.com 
 
