@@ -66,7 +66,7 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
       </a>
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+        <img src="[https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg](https://www.google.com/imgres?q=tensorflow%20logo&imgurl=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F5955aeeead90646d424bb349%2Fmaster%2Fw_1600%2Ch_1200%2Cc_limit%2Fgoogle-tensor-flow-logo-black-S.jpg&imgrefurl=https%3A%2F%2Fwww.wired.com%2F2015%2F11%2Fgoogle-open-sourcing-tensorflow-shows-ais-future-is-data-not-code%2F&docid=DYFN5eD76wVKmM&tbnid=kU9XZKODfoAaKM&vet=12ahUKEwiE9N-cqaOOAxU0bmwGHZ8LJVsQM3oECD4QAA..i&w=1600&h=1200&hcb=2&ved=2ahUKEwiE9N-cqaOOAxU0bmwGHZ8LJVsQM3oECD4QAA)" alt="tensorflow" width="40" height="40"/> 
       </a>
       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="fastapi" width="40" height="40"/> 
