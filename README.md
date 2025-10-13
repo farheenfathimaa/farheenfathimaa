@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farheen Fathima</h1> 
-<h3 align="center">A CS Undergraduate Learning & Implementing ML</h3> 
+<h3 align="center">A CS Graduate Learning & Implementing ML</h3> 
 🌱 I’m currently deeply learning <b>Deep Learning</b> and <b>Natural Language Processing</b>!
 
 📫 How to reach me: farheennfathima@gmail.com 
