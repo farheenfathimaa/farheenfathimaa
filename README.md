@@ -69,10 +69,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farheenfathimaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farheenfathimaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farheenfathimaa&show_icons=true&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farheenfathimaa&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farheenfathimaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=farheenfathimaa&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
