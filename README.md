@@ -22,47 +22,28 @@
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| [VoiceDataCurator](https://github.com/farheenfathimaa/VoiceDataCurator) | Multilingual speech curation pipeline (8+ languages) with SNR analysis & HuggingFace dataset publishing | Whisper · Librosa · Docker |
-| [urban-threadz-rag-chatbot](https://github.com/farheenfathimaa/urban-threadz-rag-chatbot) | Production dual-access RAG chatbot (RBAC) with FAISS + LLM routing (Groq / Gemini fallback) | LangChain · FAISS · Streamlit · Docker |
-| [Math-Routing-Agent](https://github.com/farheenfathimaa/Math-Routing-Agent) | Multi-agent system with 99%+ routing accuracy; 500+ test case eval suite | LangChain · Flask · OpenAI |
-| [llm-extraction-pipeline](https://github.com/farheenfathimaa/llm-extraction-pipeline) | Financial/legal document extraction pipeline; >30% cost optimization via caching | OpenAI · Anthropic · Docker |
-| [semantic-search-engine](https://github.com/farheenfathimaa/semantic-search-engine) | Sub-second semantic search REST API; <200ms response time across 1,000+ query tests | FastAPI · FAISS · Docker |
-| [log_analytics_project](https://github.com/farheenfathimaa/log_analytics_project) | ELK stack on Kubernetes; 100K+ daily logs, 92% anomaly detection, zero-downtime CI/CD | Kubernetes · ELK · GitHub Actions |
+> 📁 **One pick from each category — [view all projects →](https://github.com/farheenfathimaa/project-portfolio)**
 
-📁 **[View all projects →](https://github.com/farheenfathimaa/project-portfolio)**
+| Category | Project | What it does | Stack |
+| --- | --- | --- | --- |
+| 🤖 LLM & RAG | [urban-threadz-rag-chatbot](https://github.com/farheenfathimaa/urban-threadz-rag-chatbot) | Production dual-access RAG chatbot (RBAC) with FAISS + LLM routing (Groq / Gemini fallback); containerized with Docker Compose | LangChain · FAISS · Groq · Docker |
+| 🔍 Search & Data Eng | [log_analytics_project](https://github.com/farheenfathimaa/log_analytics_project) | 3-node ELK stack on Kubernetes; 100K+ daily logs, 92% anomaly detection, zero-downtime CI/CD | Kubernetes · ELK · GitHub Actions |
+| 🧠 Deep Learning | [tesla-stock-price-prediction](https://github.com/farheenfathimaa/tesla-stock-price-prediction) | TSLA stock forecasting with RNN/LSTM + technical indicators (RSI, MACD, Bollinger Bands); multi-horizon (1/5/10-day) with Streamlit dashboard | TensorFlow · LSTM · Streamlit |
+| 📈 Data Analytics & BI | [NovaDash](https://github.com/farheenfathimaa/NovaDash) | End-to-end retail sales analytics across 3 years of data; 5 dashboards covering KPIs, regional performance, and discount impact | Excel · Tableau · Power BI · DAX |
+| 🌐 Full Stack | [job-application-tracker](https://github.com/farheenfathimaa/job-application-tracker) | High-performance job tracker with full CRUD, instant search, >80% unit test coverage, Swagger docs, one-command Docker setup | Spring Boot 3 · React · PostgreSQL · Docker |
 
 ---
 
 ## 🧰 Skills
 
-<table>
-  <tr>
-    <th>Area</th>
-    <th>Tools & Frameworks</th>
-  </tr>
-  <tr>
-    <td>LLM & GenAI</td>
-    <td>LangChain · OpenAI API · Anthropic Claude API · Groq · Gemini · FAISS · RAG · HuggingFace Transformers · BERT</td>
-  </tr>
-  <tr>
-    <td>Machine Learning</td>
-    <td>PyTorch · TensorFlow · Scikit-Learn · XGBoost · CNNs · Transfer Learning</td>
-  </tr>
-  <tr>
-    <td>Production & MLOps</td>
-    <td>Docker · FastAPI · Kubernetes · ELK Stack · CI/CD (GitHub Actions) · Streamlit</td>
-  </tr>
-  <tr>
-    <td>Languages & Data</td>
-    <td>Python · SQL · Pandas · NumPy · OpenCV · JavaScript · Git · Linux</td>
-  </tr>
-  <tr>
-    <td>Currently Learning</td>
-    <td>LangGraph · Azure ML · AWS · MLflow · Apache Spark · Kafka</td>
-  </tr>
-</table>
+| Area | Tools & Frameworks |
+| --- | --- |
+| LLM & GenAI | LangChain · OpenAI API · Anthropic Claude API · Groq · Gemini · FAISS · RAG · Prompt Engineering · HuggingFace Transformers · BERT |
+| Machine Learning | PyTorch · TensorFlow · Scikit-Learn · XGBoost · CNNs · LSTM · RNN · Transfer Learning |
+| Production & MLOps | Docker · FastAPI · Kubernetes · ELK Stack · CI/CD (GitHub Actions) · Spring Boot · REST APIs |
+| Data & Analytics | Python · SQL · Pandas · NumPy · OpenCV · Excel · Tableau · Power BI · DAX · Streamlit · Plotly |
+| Languages & Tools | Java · JavaScript · React · Git · Linux · Librosa · OpenAI Whisper |
+| Currently Learning | LangGraph · Azure ML · AWS · GCP · MLflow · Apache Spark · Kafka |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farheenfathimaa&label=Profile%20views&color=0e75b6&style=flat" />
