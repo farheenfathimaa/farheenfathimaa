@@ -40,10 +40,10 @@
 | --- | --- |
 | LLM & GenAI | LangChain · OpenAI API · Anthropic Claude API · Groq · Gemini · FAISS · RAG · Prompt Engineering · HuggingFace Transformers · BERT |
 | Machine Learning | PyTorch · TensorFlow · Scikit-Learn · XGBoost · CNNs · LSTM · RNN · Transfer Learning |
-| Production & MLOps | Docker · FastAPI · Kubernetes · ELK Stack · CI/CD (GitHub Actions) · Spring Boot · REST APIs |
+| Production & MLOps | Docker · FastAPI · Kubernetes · ELK Stack · CI/CD (GitHub Actions) · Spring Boot · REST APIs · MLflow |
 | Data & Analytics | Python · SQL · Pandas · NumPy · OpenCV · Excel · Tableau · Power BI · DAX · Streamlit · Plotly |
 | Languages & Tools | Java · JavaScript · React · Git · Linux · Librosa · OpenAI Whisper |
-| Currently Learning | LangGraph · Azure ML · AWS · GCP · MLflow · Apache Spark · Kafka |
+| Currently Learning | LangGraph · Azure ML · AWS · GCP · Apache Spark · Kafka |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farheenfathimaa&label=Profile%20views&color=0e75b6&style=flat" />
